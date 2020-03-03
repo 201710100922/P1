@@ -2,7 +2,33 @@ p.one{
 border-style:dotted;
 border-width: 2px 3px 5px;
 }
+
 p
 {
 margin:25px 50px  75px 100px;
 }
+
+div
+{
+width:300px;
+margin:auto;
+border:10px solid orange;
+padding:25px 100px 25px 25px;
+height:100px;
+width:500px;
+background-color:powderblue;
+}
+
+span.c{
+  height: 20px;
+  width: 20px;
+  background-color: #bbb;
+  border-radius: 200%;
+  display: inline-block;
+}
+
+a:hover{
+color:red;
+text-decoration:line-through;
+}
+
